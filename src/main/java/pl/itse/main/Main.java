@@ -8,6 +8,12 @@ import pl.itse.config.AppConfig;
 import pl.itse.prototype.ExampleService;
 import pl.itse.prototype.IExampleService;
 
+/*
+* Simple example how to bean scopes - prototype in spring application
+* 
+* @author Borys Pawluczuk
+*/
+
 @SpringBootApplication
 public class Main {
 
